@@ -1,0 +1,21 @@
+#post1 {
+	background-image: url(post1.jfif);
+	background-position: 0% 70%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+#post2 {
+	background-image: url(post2.jfif);
+	background-position: 0% 60%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+#post3 {
+	background-image: url(post3.jfif);
+	background-position: 0% 57%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
